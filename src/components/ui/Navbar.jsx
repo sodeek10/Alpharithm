@@ -67,6 +67,7 @@ const Navbar = () => {
         <HStack>
           <Button
             bg=" rgba(3, 6, 29, 1)"
+            border="1px solid rgba(255, 255, 255, 1)"
             color=" rgba(255, 255, 255, 1)"
             fontWeight={500}
             fontSize="14px"

@@ -155,6 +155,7 @@ const AutoScrollingCarousel = () => {
                 <Button
                   bgColor="rgba(3, 33, 127, 1)"
                   fontFamily="Inter, sans-serif"
+                  color="rgba(246, 250, 243, 1)"
                 >
                   Learn More
                 </Button>
