@@ -6,7 +6,7 @@ import AutoScrollingCarousel from "../components/ui/Cards";
 
 const Home = () => {
   return (
-    <Box>
+    <Box bgColor="rgba(246, 250, 243, 1)">
       <Hero></Hero>
       <Companies></Companies>
       <AiModels></AiModels>
